@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @OyekanStephen
-  I write node.js
+  I write javascript 
   you can reach me faster via email.
   Oyekanstephen6@gmail.com
